@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OntimMediaButton">
+        <item name="android:background">@drawable/media_button_background</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="OntimMediaButton.Previous">
+        <item name="android:src">@drawable/ontim_ic_media_previous</item>
+    </style>
+    <style name="OntimMediaButton.Next">
+        <item name="android:src">@drawable/ontim_ic_media_next</item>
+    </style>
+
+    <style name="OntimMediaButton.Play">
+        <item name="android:src">@drawable/ontim_ic_media_play</item>
+    </style>
+
+    <style name="OntimMediaButton.Ffwd">
+        <item name="android:src">@drawable/ontim_ic_media_ff</item>
+    </style>
+
+    <style name="OntimMediaButton.Rew">
+        <item name="android:src">@drawable/ontim_ic_media_rew</item>
+    </style>
+
+    <style name="OntimMediaButton.Pause">
+        <item name="android:src">@drawable/ontim_ic_media_pause</item>
+    </style>
+</resources>

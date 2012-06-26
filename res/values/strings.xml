@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OntimPlayer!</string>
+    <string name="app_name">OntimPlayer</string>
+    <string name="loading_video">OntimPlayer</string>
+    <string name="movieviewlabel">OntimPlayer</string>
+<string name="add_sym">+</string>
+<string name="dec_sym">-</string>
+<string name="test">33%</string>
+<string name="back">Back</string>
+<string name="nomedia">No media found</string>
+<string name="gotouri">open url</string>
+<string name="urltitle">Please enter the url</string>
+<string name="alert_dialog_ok">OK</string>
+<string name="alert_dialog_cancel">Cancel</string>
+</resources>
